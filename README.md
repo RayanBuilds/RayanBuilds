@@ -37,17 +37,6 @@ philosophy: Clarity in design • Technical discipline • Innovation with purpo
 
 ---
 
-## 🌐 Connect & Explore
-
-<div align="center" style="margin-top:20px;">
-<a href="https://www.rayanbuilds.zone.id/"><img src="https://img.shields.io/badge/🌍_Portfolio-00f6ff?style=for-the-badge&logo=vercel&logoColor=fff&labelColor=0a0a0a"/></a>
-<a href="https://www.rayanbuilds.zone.id/chat"><img src="https://img.shields.io/badge/🤖_AI_Assistant-00f6ff?style=for-the-badge&logo=openai&logoColor=fff&labelColor=0a0a0a"/></a>
-<a href="https://www.rayanbuilds.zone.id/learn"><img src="https://img.shields.io/badge/📚_Learning_Hub-00f6ff?style=for-the-badge&logo=react&logoColor=fff&labelColor=0a0a0a"/></a>
-<a href="https://www.rayanbuilds.zone.id/contact"><img src="https://img.shields.io/badge/📧_Contact-00f6ff?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=0a0a0a"/></a>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center" style="margin-top:20px;">
