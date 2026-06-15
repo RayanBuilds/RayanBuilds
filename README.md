@@ -4,7 +4,7 @@
 
 <div align="center">
 <div style="width:100%;padding:25px;border-radius:22px;background:linear-gradient(145deg,#0b0b0b,#111);box-shadow:0 0 25px rgba(0,255,255,0.12),0 0 60px rgba(0,255,180,0.08),inset 0 0 12px rgba(0,255,255,0.1);">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=2600&color=16F2F2&center=true&vCenter=true&width=850&lines=Sonu+Jana;Full+Stack+Developer+%7C+AI+Enthusiast;Building+scalable+systems+with+purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=28&duration=2600&color=16F2F2&center=true&vCenter=true&width=850&lines=Rayan+Builds;Full+Stack+Developer+%7C+AI+Enthusiast;Building+scalable+systems+with+purpose" alt="Typing SVG" />
 </div>
 </div>
 
@@ -13,7 +13,7 @@
 ## 👤 About Me
 
 ```yaml
-name: Sonu Jana (RayanBuilds)
+name: Rayan Builds
 role: Full Stack Developer • AI Enthusiast
 location: 🇮🇳 India
 learning_path: Self-taught • Project-driven • Continuous growth
